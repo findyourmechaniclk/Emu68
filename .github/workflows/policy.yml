@@ -1,6 +1,7 @@
 name: Policy
 
 on:
+  workflow_dispatch:
   push:
   pull_request:
 
